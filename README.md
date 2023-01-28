@@ -1,5 +1,5 @@
 # 42_Linear_regression
-A first dive into the ML specialization
+My first dive into the ML specialization
 
 My first project in the ML field, with a simple linear regression training model with 1 feature
 
